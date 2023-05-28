@@ -1,4 +1,4 @@
-print('Programa de app de logistica feito por Adão Biotto RU 4316389')
+print('Programa de app de logistica feito por Adão Biotto')
 
 def dimensoesObjeto():       #função para calcular as dimensões do objeto
     try:
